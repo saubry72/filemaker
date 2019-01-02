@@ -1,0 +1,15 @@
+"OPEN_GIGIDATA" & ¶ &                                          /*01- action type  */
+"EnregistrerFicheModif" & ¶ &                                  /*02- From Script  */
+"" & ¶ &                                                       /*03- leave Blank*/
+"" & ¶ &                                                       /*04- leave Blank*/
+"Style" & ¶ &                                                  /*05-Table*/
+"StlyeModif" & ¶ &                                             /*06- Layout*/
+"Enregistre style#"& style::ID & ¶ &                           /*07- leave Blank*/
+"" & ¶ &                                                       /*08- client#*/
+"" & ¶ &                                                       /*09- facture#*/
+"" & ¶ &                                                       /*10- depot#*/
+"" & ¶ &                                                       /*11- paiement#*/
+"" & ¶ &                                                       /*12- product#*/
+"" & ¶ &                                                       /*13- value*/
+"" & ¶ &                                                       /*14- order#*/
+Style::ID & ¶                                                  /*15- StyleID*/
